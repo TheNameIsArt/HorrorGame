@@ -1,0 +1,489 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.11f1 (d00248457e15) revision 13632072'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'en' Physical Memory: 16271 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/Bananya/OneDrive/Dokumenter/Multimediedesigner/Horror game
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+53802
+Successfully changed project path to: C:/Users/Bananya/OneDrive/Dokumenter/Multimediedesigner/Horror game
+C:/Users/Bananya/OneDrive/Dokumenter/Multimediedesigner/Horror game
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [6944] Host "[IP] 192.168.0.108 [Port] 0 [Flags] 2 [Guid] 1474961882 [EditorId] 1474961882 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ACQE5B8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [6944] Host "[IP] 192.168.0.108 [Port] 0 [Flags] 2 [Guid] 1474961882 [EditorId] 1474961882 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ACQE5B8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 20.79 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.64 ms.
+Initialize engine version: 2022.3.11f1 (d00248457e15)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Bananya/OneDrive/Dokumenter/Multimediedesigner/Horror game/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     6092 MB
+    Driver:   31.0.15.4601
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56776
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004709 seconds.
+- Loaded All Assemblies, in  0.246 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.185 seconds
+Domain Reload Profiling: 430ms
+	BeginReloadAssembly (82ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (91ms)
+		LoadAssemblies (81ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (90ms)
+			TypeCache.Refresh (89ms)
+				TypeCache.ScanAssembly (80ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (185ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (143ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (96ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.479 seconds
+Refreshing native plugins compatible for Editor in 9.53 ms, found 12 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in .\Library\PackageCache\com.unity.xr.oculus@4.1.1\Runtime\OculusLoader.cs:287 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x00084] in .\Library\PackageCache\com.unity.xr.oculus@4.1.1\Runtime\OculusLoader.cs:272 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <9920ff0c944845d7b9f9a61ef1478edc>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.472 seconds
+Domain Reload Profiling: 950ms
+	BeginReloadAssembly (113ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (306ms)
+		LoadAssemblies (236ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (136ms)
+			TypeCache.Refresh (117ms)
+				TypeCache.ScanAssembly (104ms)
+			ScanForSourceGeneratedMonoScriptInfo (15ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (472ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (359ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (261ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 9.60 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 3932 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 71 unused Assets / (74.8 KB). Loaded Objects now: 4423.
+Memory consumption went from 156.3 MB to 156.2 MB.
+Total: 3.017100 ms (FindLiveObjects: 0.263600 ms CreateObjectMapping: 0.159400 ms MarkObjects: 2.450800 ms  DeleteObjects: 0.142500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 83917.001451 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials
+  artifactKey: Guid(285b5a9c8de9b5d45b9cf2a7f93671a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials using Guid(285b5a9c8de9b5d45b9cf2a7f93671a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40236ff4a8215b898cfd17291b9ef613') in 0.002638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.071026 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/autopsy_table.mat
+  artifactKey: Guid(dd841d143bf6ef24a975a5ea682538d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/autopsy_table.mat using Guid(dd841d143bf6ef24a975a5ea682538d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5625f1fde614773608e28148b7d941b5') in 0.111463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/level_objects2_Metallic.tga
+  artifactKey: Guid(fe5a1e237d6341c4689e4ea5158801ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/level_objects2_Metallic.tga using Guid(fe5a1e237d6341c4689e4ea5158801ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6cc0f26d1541acf38c2447f73cf3667') in 0.020619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/photo_frame_metallic.tga
+  artifactKey: Guid(37382bd910e06cf40b366f635cbae207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/photo_frame_metallic.tga using Guid(37382bd910e06cf40b366f635cbae207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5f0e4b5693f0ded320f80cce22b0d1') in 0.011860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/table_trash_mat.mat
+  artifactKey: Guid(b193d7fcb79286748a37c78e852d27e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/table_trash_mat.mat using Guid(b193d7fcb79286748a37c78e852d27e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4283e2c0de592538ce63f175936794d') in 0.019710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/note_book_mat.mat
+  artifactKey: Guid(3dcea46a4420ba54d90040d5e46fc3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/note_book_mat.mat using Guid(3dcea46a4420ba54d90040d5e46fc3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d74701f156730d8c241f6a6f891162') in 0.024051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/table_trash_albedo.tga
+  artifactKey: Guid(9e1e2d148d1701e4cb4231be8bbbb993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/table_trash_albedo.tga using Guid(9e1e2d148d1701e4cb4231be8bbbb993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2eacd8454d4a5538f9defff49d89f19') in 0.014810 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/desk_chair_metallic.tga
+  artifactKey: Guid(3bfdcdbb9f85c3242a543a3be3b9e91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/desk_chair_metallic.tga using Guid(3bfdcdbb9f85c3242a543a3be3b9e91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca61037651c6e74e7aafafff02dad53d') in 0.016959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/organs_height.tga
+  artifactKey: Guid(6f9fe947faab17e4293ed162150ec72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/organs_height.tga using Guid(6f9fe947faab17e4293ed162150ec72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32e7a9398334f296de17b5d3392b619') in 0.015250 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/organs_albedo.tga
+  artifactKey: Guid(f9a21054c4a9bde458c47912252c6e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/organs_albedo.tga using Guid(f9a21054c4a9bde458c47912252c6e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '589ab7734bed66a96268adb07127f13f') in 0.013791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/Channel_lambert1_Diffuse_u1_v1.mat
+  artifactKey: Guid(6291163f154461f418765041516be4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/Channel_lambert1_Diffuse_u1_v1.mat using Guid(6291163f154461f418765041516be4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a56baf55e225127c1725d60bf944ab1') in 0.010771 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/desk_chair_normals.tga
+  artifactKey: Guid(80ee7be1c04ff8f45b80afa019197ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/desk_chair_normals.tga using Guid(80ee7be1c04ff8f45b80afa019197ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a04ba40df81970706ad6056e3509db') in 0.017630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/level_objects2_normal.tga
+  artifactKey: Guid(df399f550d1662a4cbe40046dbc18ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/level_objects2_normal.tga using Guid(df399f550d1662a4cbe40046dbc18ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9596c698632108f1501abf61f1df21') in 0.016516 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/metal_sink_basecolor.tga
+  artifactKey: Guid(a4a2746863dcd8844a3725ebc32c184a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/metal_sink_basecolor.tga using Guid(a4a2746863dcd8844a3725ebc32c184a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c123a5e153b1df41d4bb90aa2d35d8b1') in 0.012552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/level_objects_emissive.tga
+  artifactKey: Guid(0f0675eb1cc579c4abeb3d41b8a54d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/level_objects_emissive.tga using Guid(0f0675eb1cc579c4abeb3d41b8a54d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8aa78a84e8c81ceea2156880042605') in 0.014357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/glass_jar_specular.tga
+  artifactKey: Guid(1e2466dfc69ac67488b1f289d4595663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/glass_jar_specular.tga using Guid(1e2466dfc69ac67488b1f289d4595663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fab2649a267bb2d2bca9fa55795fb9a') in 0.014207 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/level_objects_metallic.tga
+  artifactKey: Guid(b3994c2120bb36f48a8aa09ffa8724b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/level_objects_metallic.tga using Guid(b3994c2120bb36f48a8aa09ffa8724b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1397ca07a0ad8f0c0071f2f5240f13ed') in 0.013566 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/props/Materials/shelf_albedo.tga
+  artifactKey: Guid(7990de569a043894f878c53dc1ba10b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/props/Materials/shelf_albedo.tga using Guid(7990de569a043894f878c53dc1ba10b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02aa54ea538fe81762dd407ca4108c72') in 0.011691 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 21.524663 seconds.
+  path: Assets/Assets/Free_Barrel/Models/barrel.FBX
+  artifactKey: Guid(1768e940ef5fa2d4093cb81fb56533a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Free_Barrel/Models/barrel.FBX using Guid(1768e940ef5fa2d4093cb81fb56533a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b8eb2323cd79fe94ee10115afc60fe') in 0.036829 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/Free_Barrel/Models/Splash.FBX
+  artifactKey: Guid(1a50ff50ca7a0bf4588031760212c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Free_Barrel/Models/Splash.FBX using Guid(1a50ff50ca7a0bf4588031760212c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ccddb7cfaff44440d43ba7df9004c95') in 0.013515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 7.074213 seconds.
+  path: Assets/Assets/Morgue Room PBR/morgue scene
+  artifactKey: Guid(9597a2a15c34230468ccd486adeae93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/morgue scene using Guid(9597a2a15c34230468ccd486adeae93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc601796f12c9b3205e635a43c05184') in 0.000456 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.875395 seconds.
+  path: Assets/Assets/Morgue Room PBR/morgue scene/morgue
+  artifactKey: Guid(46d574bd5e878134abc04ded4be7ea27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/morgue scene/morgue using Guid(46d574bd5e878134abc04ded4be7ea27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d762fa2673cf5755b9c1130a63283fe') in 0.000396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.078598 seconds.
+  path: Assets/Assets/Morgue Room PBR/morgue scene/morgue/LightingData.asset
+  artifactKey: Guid(ee384aacf6b023c4d8b05c42e5472572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/morgue scene/morgue/LightingData.asset using Guid(ee384aacf6b023c4d8b05c42e5472572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c83f7ff2bf364295fc814b9fecabdc') in 0.003054 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-0.exr
+  artifactKey: Guid(e4b1b8489170cc641a647b2f765d219f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-0.exr using Guid(e4b1b8489170cc641a647b2f765d219f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15242f1a614bec8f3ccd6ad05831e3ab') in 0.018546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-3.exr
+  artifactKey: Guid(f8eed365217ea554f96d1e51c85cf325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-3.exr using Guid(f8eed365217ea554f96d1e51c85cf325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066e3288689a17e0f96ce88f70300ed2') in 0.010056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 22.022264 seconds.
+  path: Assets/Assets/Horror Hospital Pack/Models/SD/mSD.mat
+  artifactKey: Guid(4576faa75149c8c4899f7f48951da25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Horror Hospital Pack/Models/SD/mSD.mat using Guid(4576faa75149c8c4899f7f48951da25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cb1e276bf8b05781970ed063322d45') in 0.011839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/wall/Materials/wall_piece_mat01.mat
+  artifactKey: Guid(460ad7a7b1ff6df4fa7b847f7e1660f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/wall/Materials/wall_piece_mat01.mat using Guid(460ad7a7b1ff6df4fa7b847f7e1660f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cce4ac21444f8cce6412e35aa951f01') in 0.017715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Assets/Dnk_Dev/HospitalHorrorPack/Materials/T_BedBedding_AO.mat
+  artifactKey: Guid(e436279b7160d674c8bddf49f223a230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Dnk_Dev/HospitalHorrorPack/Materials/T_BedBedding_AO.mat using Guid(e436279b7160d674c8bddf49f223a230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d911cea410f0d65725b5d1146b16461') in 0.013859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Assets/BloodDecalsAndEffects/TiledRoom/Materials/TileMaterial.mat
+  artifactKey: Guid(c21bf17a6d2ca0140a9154a1e740ae60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/BloodDecalsAndEffects/TiledRoom/Materials/TileMaterial.mat using Guid(c21bf17a6d2ca0140a9154a1e740ae60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a61866b8c1c2bbacbce942327dbfce') in 0.016779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Assets/Dnk_Dev/HospitalHorrorPack/Materials/T_Bed_Metal_01_M.mat
+  artifactKey: Guid(08b6c278e7b4d274da5eb46d9b22cc5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Dnk_Dev/HospitalHorrorPack/Materials/T_Bed_Metal_01_M.mat using Guid(08b6c278e7b4d274da5eb46d9b22cc5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c1082b94981bed6653c2ce96fe57b9') in 0.011292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 14.665703 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/floor/Materials/lambert1.mat
+  artifactKey: Guid(5f4e13ad018640a4c8d8a222073ec51f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/floor/Materials/lambert1.mat using Guid(5f4e13ad018640a4c8d8a222073ec51f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad2b99c6c7f60efaf0d68f75e5e6dd3') in 0.010441 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.392500 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/wall/Materials/doorframes_mat.mat
+  artifactKey: Guid(4a07eb17452e0be4398aa22d30b4a627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/wall/Materials/doorframes_mat.mat using Guid(4a07eb17452e0be4398aa22d30b4a627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7173b9d2950e91e9785621a41a38053f') in 0.015640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/floor/Materials/floor_01_mat.mat
+  artifactKey: Guid(a7cc9c1f9de481c4bb6d14d30a6f58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/floor/Materials/floor_01_mat.mat using Guid(a7cc9c1f9de481c4bb6d14d30a6f58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03239a4cfd59370c6565f1d907fb632b') in 0.018621 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.029758 seconds.
+  path: Assets/Assets/Free_Barrel/Materials/Barrel 1.mat
+  artifactKey: Guid(b627436557539ba42a6af444a92c0b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Free_Barrel/Materials/Barrel 1.mat using Guid(b627436557539ba42a6af444a92c0b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae2feb86279ef5dbad8aeeeb05df374') in 0.060146 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Assets/Morgue Room PBR/Models/floor/Materials/ceiling_01_mat.mat
+  artifactKey: Guid(9d0b89dd5f51ec6428c88bb296cfa117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Morgue Room PBR/Models/floor/Materials/ceiling_01_mat.mat using Guid(9d0b89dd5f51ec6428c88bb296cfa117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2360c321da605ae3afaf07659e348c65') in 0.016282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
